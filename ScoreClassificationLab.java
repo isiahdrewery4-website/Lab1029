@@ -15,7 +15,7 @@ public class ScoreClassificationLab {
             }
         }
 
-        System.out.println("\nTotal passing scores: " + passCount);
+        System.out.println("Total passing scores: " + passCount);
         System.out.println("Total failing scores: " + failCount);
     }
 }
